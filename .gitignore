@@ -15,12 +15,3 @@
 /log/*
 !/log/.keep
 /tmp
-
-# Ignore temp file on my computer and vim.swp files
-*~
-*.swp
-*.swo
-doc/
-.project
-.DS_Store
-.idea
